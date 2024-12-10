@@ -9,6 +9,8 @@ Data from a Phase 1 and baseline survey of two sites on Arran.
 
 `GBIF_taxonomy.R` - R code to standardise names to the GBIF backbone
 
+`Data Compliance to FAIR Principles.docx` - Detauls on the data's compliance to FAIR principles
+
 #### `graphs/`
 `allranks.png` - Alpha diversity at each taxonomic rank for both sites separately and together.
 
