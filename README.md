@@ -1,5 +1,15 @@
 Data from a Phase 1 and baseline survey of two sites on Arran.
 
+`Arran.xlsx` - Dataset in the Darwin Core Standard format
+`Habitat Map.png` - Phase 1 habitat map that was produced
+`biodiversity.R` - R code used to analyse data and generate graphs in `graphs/`
+`GBIF_taxonomy.R` - R code to standardise names to the GBIF backbone
+#### `graphs/`
+`allranks.png` - Alpha diversity at each taxonomic rank for both sites separately and together.
+`habitatdissimilarity.png` - Sørensen dissimilarity between the two sites at the order level for bracken, grassland, stream and woodland habitats.
+`rankdissimilarity.png` - Sørensen dissimilarity between the two sites at each taxonomic rank.
+`siteranks.png` - Alpha diversity at the order, family, genus and species taxonomic ranks per habitat for both sites separately and together.
+
 # Data Management Plan
 ### Types of data generated
 A Phase 1 habitat survey habitat map with target notes on notable plant and animal species. A data table of animal survey results and the code used to normalise and analyse it.
