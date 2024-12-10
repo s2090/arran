@@ -37,7 +37,7 @@ The data table and analysis code will be readable in R.
 The table of animal survey data is informative as to the presence of animal species in the area, as is the habitat map.
 
 ### How data will be shared
-All data (the data table, code used to analyse it and habitat maps produced alongside their target notes) will be uploaded to GitHub with a README file explaining each file's purpose.
+All data (the data table, code used to analyse it and habitat maps produced alongside their target notes) is available on GitHub at [https://github.com/s2090/arran](https://github.com/s2090/arran) with a README file explaining each file's purpose.
 
 ### Resources needed to preserve and share data
 None, depending on GitHub's own resources and decisions.
